@@ -1,0 +1,8 @@
+gradio
+transformers
+datasets
+torch
+soundfile
+torchaudio
+sentencepiece
+boto3
